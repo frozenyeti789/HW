@@ -1,4 +1,6 @@
 # HW
 
+a = "apple"
 
-FKSFSV
+print(a.find(""))
+
